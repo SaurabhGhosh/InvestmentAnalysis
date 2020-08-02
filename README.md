@@ -90,13 +90,13 @@ For point 3 (top sector count-wise), which company received the highest investme
 For point 4 (second best sector count-wise), which company received the highest investment? | SST Inc. (Formerly ShotSpotter) | Celltick Technologies | Manthan Systems
 
 ## View – Investment Type
-![Image of investment type](/images/investmenttype.png)
+![Image of investment type](https://user-images.githubusercontent.com/10557638/89112493-57e59e80-d45b-11ea-8d84-b91a8746427f.PNG)
 
 ## View - Country
-![Image of view country](/images/viewcountry.png)
+![Image of view country](https://user-images.githubusercontent.com/10557638/89112494-587e3500-d45b-11ea-9432-51b45d025ad8.PNG)
 
 ## View - Sector
-![Image of view sector](/images/viewsector.png)
+![Image of view sector](https://user-images.githubusercontent.com/10557638/89112495-5916cb80-d45b-11ea-91bb-2be010a7182a.PNG)
 
 ## Conclusions
 Based on the analysis and the views, Spark Funds can choose to invest in Venture type of investments,
